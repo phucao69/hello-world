@@ -2,7 +2,6 @@
 
 int main()
 {
-    std::cout<<"Hello there"<<endl;
-    std::cout<<"Hi";
+    std::cout<<"Hello World";
     return 0;
 }
